@@ -1,5 +1,7 @@
 # Getting Started
 
+docker compose up --build
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
