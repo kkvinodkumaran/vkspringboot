@@ -9,7 +9,7 @@ mvn clean package -DskipTests
 
 docker compose up --build
 
-✅ Step 8 — Access All Tools Locally
+✅ Access All Tools Locally
 Component	URL
 ✅ Spring Boot App	http://localhost:8080/hello
 ✅ Spring Metrics	http://localhost:8080/actuator/prometheus
